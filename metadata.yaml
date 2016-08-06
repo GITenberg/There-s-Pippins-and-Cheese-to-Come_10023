@@ -1,0 +1,33 @@
+_repo: There-s-Pippins-and-Cheese-to-Come_10023
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brooks, Charles S. (Charles Stephen)
+    aliases:
+    - Brooks, C. S. (Charles Stephen)
+    - Brooks, Charles Stephen
+    birthdate: 1878
+    deathdate: 1934
+    gutenberg_agent_id: '3268'
+    url: http://www.gutenberg.org/2009/agents/3268
+description: ''
+gutenberg_bookshelf: Bibliomania
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10023'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: There's pippins and cheese to come -- On buying old books -- Any
+  stick will do to beat a dog -- Roads of morning -- The man of Grub Street comes
+  from his garret -- Now that spring is here -- The friendly genii -- Mr. Pepys sits
+  in the pit -- To an unknown reader -- A plague of all cowards -- The asperities
+  of the early British reviewers -- The pursuit of fire.
+title: There's Pippins and Cheese to Come
+url: http://www.gutenberg.org/ebooks/10023
