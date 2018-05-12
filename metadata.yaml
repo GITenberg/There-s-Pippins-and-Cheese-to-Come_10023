@@ -1,5 +1,8 @@
 _repo: There-s-Pippins-and-Cheese-to-Come_10023
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brooks, Charles S. (Charles Stephen)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '3268'
     url: http://www.gutenberg.org/2009/agents/3268
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10023#There-s-Pippins-and-Cheese-to-Come
 gutenberg_bookshelf: Bibliomania
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
